@@ -10,3 +10,6 @@ It was created to practice HTML structure, including headings, lists, and conten
 
 ## 🎯 Purpose
 To reinforce basic HTML concepts by building a structured and readable page.
+
+## 🌐 Live Demo
+[View the project](https://louise200703.github.io/recipe-page/)
